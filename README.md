@@ -34,7 +34,27 @@ pip install mysql-connector-python
 
 - Configure Database: Modify the `db_config` dictionary in the code to match your MySQL server configuration.
 - Run the Application: Open a terminal/command prompt, navigate to the project directory, and run the following command: 
+- If you want to make this python code windows executable the Follow the procedure given below:
 
+**_1.Install pyinstaller if you haven't already:_**
+
+pip install pyinstaller
+
+**_2.Navigate to the directory containing your Python script in the terminal._**
+**_3.Run the following command to generate the executable without a console window:_**
+
+pyinstaller --onefile --noconsole your_script.py
+
+Replace your_script.py with the actual name of your Python script.
+
+The --onefile flag bundles everything into a single executable file, and the --noconsole flag tells pyinstaller not to display a console window.
+
+For example, if you have a script named my_script.py, you would run:
+
+pyinstaller --onefile --noconsole my_script.py
+
+The generated executable will be located in the dist folder within the directory where your script is located.
+ 
 **_4.Usage_**
 
 - Launch the application using the provided command.
