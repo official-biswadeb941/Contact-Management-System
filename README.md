@@ -41,6 +41,7 @@ pip install mysql-connector-python
 pip install pyinstaller
 
 **_2.Navigate to the directory containing your Python script in the terminal._**
+
 **_3.Run the following command to generate the executable without a console window:_**
 
 pyinstaller --onefile --noconsole your_script.py
