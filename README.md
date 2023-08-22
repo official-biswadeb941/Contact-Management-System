@@ -1,10 +1,8 @@
-# Contact-Management-System
-
 **_Contact Management Application_**
 
 **_Description_**
 
-The Contact Management Application is a graphical user interface (GUI) program developed using Tkinter and MySQL. It allows users to manage their contacts by adding, viewing, updating, and deleting contact information such as names, genders, phone numbers, and email addresses.
+The Contact Management System is a graphical user interface (GUI) program developed using Tkinter and MySQL. It was first made by "Krazy Programmer" in 2021 and it is Upgraded by Biswadeb Mukherjee in 2023. It allows users to manage their contacts by adding, viewing, updating, and deleting contact information such as names, genders, phone numbers, and email addresses.
 
 
 **_1.Features_**
