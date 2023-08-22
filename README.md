@@ -79,5 +79,6 @@ The generated executable will be located in the dist folder within the directory
 
 **_8.Contact_**
 
+-If you have found this project is great then don't forget to [Buy Me a coffee (https://www.buymeacoffee.com/b.m.o.941)]
 - For questions or inquiries, please contact me at the given mail address: biswadebmukherjee941@gmail.com.
 
