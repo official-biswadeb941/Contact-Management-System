@@ -1,4 +1,6 @@
-#A Python Based Project made by Krazy Programmer and Customised & released by Biswadeb Mukherjee.
+#A Python Based Project made by Krazy Programmer on 2021 and it is Upgraded by Biswadeb Mukherjee on 2023.
+#Current version of this app is 4.0.0.
+
 
 from tkinter import *
 import tkinter.ttk as ttk
@@ -76,7 +78,10 @@ def DisplayForm():
     Gender.set("Select Gender")
     content={'Male','Female'}
     OptionMenu(LFrom,Gender,*content).pack(side=TOP, padx=10, fill=X)
-
+    # Create a label for software version
+    software_version = "4.0.0"  # Replace with your actual software version
+    version_label = Label(display_screen, text=f"Version: {software_version}", font=("Cascadia", 10, 'bold'))
+    version_label.pack(side=LEFT, anchor='sw', padx=10, pady=5)
     Label(LFrom, text="Phone Number ", font=("Arthura", 15, "bold"),bg="#13d450",fg="white").pack(side=TOP)
     Entry(LFrom, font=("Arthura", 15, "bold"),textvariable=Phone_Number).pack(side=TOP, padx=10, fill=X)
     Label(LFrom, text="Email Id ", font=("Arthura", 15, "bold"),bg="#13d450",fg="white").pack(side=TOP)
