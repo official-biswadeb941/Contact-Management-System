@@ -65,7 +65,8 @@ The generated executable will be located in the dist folder within the directory
 
 
 **_5.Screenshots_**
- 
+
+- If you are having problem in do anything or you are having problem in understanding anything then go through my Youtube Video https://youtu.be/mwDpGwwvBoo
 
 **_6.Known Issues_**
 
@@ -79,6 +80,6 @@ The generated executable will be located in the dist folder within the directory
 
 **_8.Contact_**
 
-- If you have found this project is great then don't forget to (a href = "https://www.buymeacoffee.com/b.m.o.941")Buy me a cofee(/a)
+- If you have found this project is great then don't forget to Buy me a Coffee at https://www.buymeacoffee.com/b.m.o.941
 - For questions or inquiries, please contact me at the given mail address: biswadebmukherjee941@gmail.com.
 
