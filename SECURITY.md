@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-This app is currently running on version 4.0.0 so If you discover a security vulnerability in this project, please follow these steps:
+This app is currently running on version 4.0.0 so If you discover a bugs or security vulnerabilities in this project, please follow these steps:
 
 1. Email us at biswadebmukherjee941@gmail.com to report the issue.
 2. Do not disclose the vulnerability publicly until we have had a chance to address it.
